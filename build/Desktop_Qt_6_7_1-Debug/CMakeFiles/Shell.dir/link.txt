@@ -1,0 +1,1 @@
+/usr/bin/clang++ -DQT_QML_DEBUG -g CMakeFiles/Shell.dir/main.cpp.o CMakeFiles/Shell.dir/shell.cpp.o -o Shell
